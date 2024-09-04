@@ -1,0 +1,18 @@
+¿Cuál es el punto más débil de PGP?
+El sistema de clave publica
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+Cuando se envian varios datos, o cuando se enviar archivos pesados
+
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+El ciclo de vida del desarrollo de software seguro integra la seguridad en cada fase del proceso de desarrollo para proteger el software contra vulnerabilidades y ataques.
+Etapas del ciclo de vida del desarrollo de software seguro 
+Planificación: Define los requisitos de seguridad y analiza riesgos.
+Diseño: Diseña una arquitectura segura y modela amenazas.
+Desarrollo: Implementa prácticas de codificación segura y revisa el código.
+Pruebas: Realiza pruebas de seguridad estáticas y dinámicas.
+Despliegue: Configura el entorno de manera segura y gestiona accesos.
+Mantenimiento: Monitorea, aplica parches y mejora continuamente la seguridad.
+Retiro: Desmantela el software de manera segura y revisa el proceso.
+
+
